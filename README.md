@@ -149,9 +149,9 @@ Learn how to conduct better literature reviews.
 - [Literature Reviews: An Overview for Graduate Students](https://www.youtube.com/watch?v=t2d7y_r65HU) — NC State University Libraries
 
 ### Books
-- [*The Literature Review: Six Steps to Success* — Lawrence A. Machi](https://www.amazon.com/Literature-Review-Six-Steps-Success/dp/1071852906)
-- [*Doing a Systematic Review* — Angela Boland et al.](https://uk.sagepub.com/sites/default/files/upm-assets/87631_book_item_87631.pdf)
-- [*How to Write a Thesis* — Umberto Eco](https://www.amazon.com/How-Write-Thesis-MIT-Press/dp/0262527138)
+- [*The Literature Review: Six Steps to Success*](https://www.amazon.com/Literature-Review-Six-Steps-Success/dp/1071852906) — Lawrence A. Machi
+- [*Doing a Systematic Review*](https://uk.sagepub.com/sites/default/files/upm-assets/87631_book_item_87631.pdf) — Angela Boland et al.
+- [*How to Write a Thesis*](https://www.amazon.com/How-Write-Thesis-MIT-Press/dp/0262527138) — Umberto Eco
 
 ### Communities
 - [r/PhD](https://www.reddit.com/r/PhD/) — PhD student community
