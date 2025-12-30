@@ -37,4 +37,4 @@ Or for tables:
 
 ### Suggesting changes
 
-If you're not comfortable with pull requests, [open an issue](https://github.com/YOUR_USERNAME/awesome-literature-review-tools/issues) describing what you'd like to add or change.
+If you're not comfortable with pull requests, [open an issue](https://github.com/joepacal/academic-resources/issues) describing what you'd like to add or change.
