@@ -163,7 +163,7 @@ Learn how to conduct better literature reviews.
 
 ## Contributing
 
-Got a tool that should be on this list? [Open an issue](https://github.com/YOUR_USERNAME/awesome-literature-review-tools/issues) or submit a pull request.
+Got a tool that should be on this list? [Open an issue](https://github.com/joepacal/awesome-literature-review-tools/issues) or submit a pull request.
 
 Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
